@@ -5,3 +5,5 @@
 build
 .vscode
 .metals
+.bloop
+.vscode
