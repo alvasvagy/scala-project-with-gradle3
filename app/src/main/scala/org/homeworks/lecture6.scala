@@ -191,7 +191,7 @@ object Lec6Either extends App {
 
 
 // Homework
-class Homework extends App {
+object Homework extends App {
   def tryDivide (a:Int, b:Int): Try[Int] = {
     Try {a / b}
   }
